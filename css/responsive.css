@@ -44,12 +44,12 @@ header .navbar-nav li:hover a
 
 @media(min-width:992px){
     
-    
-    
     .container{
         max-width: 947px;
     }
-    
+    .left-content {
+        border-right: 1px dotted #9a9a9a;
+    }
     
 }
 
