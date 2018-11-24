@@ -5,6 +5,10 @@
     
     
     
+    .news-navigation a,
+    .news-navigation > span{
+        font-size: 22px;
+    }
     
     
     
@@ -44,13 +48,17 @@ header .navbar-nav li:hover a
 
 @media(min-width:992px){
     
+    
+    
     .container{
         max-width: 947px;
     }
-    .left-content {
+    
+    .left-content{
         border-right: 1px dotted #9a9a9a;
     }
     
+    
 }
 
 
@@ -63,19 +71,6 @@ header .navbar-nav li:hover a
     .container{
         max-width: 947px;
     }
-    
-    
-}
-
-
-
-
-@media(min-width:1200px){
-    
- .container {
-        max-width:947px;
-    }
-    
     
     
 }
