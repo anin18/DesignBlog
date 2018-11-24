@@ -20,7 +20,9 @@
 
 
 @media(min-width:992px){
-  
+    .container {
+        max-width:947px;
+    }
     
     
 }
@@ -31,7 +33,10 @@
 
 @media(min-width:1200px){
     
-
+ .container {
+        max-width:947px;
+    }
+    
     
     
 }
